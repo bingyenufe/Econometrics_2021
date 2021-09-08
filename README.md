@@ -12,4 +12,4 @@
 ## 上课录屏  
 2021_W1_1表示2021年秋第一周第一小节课  
 [2021_W1_1](http://aiplay.iflyink.com/#/webShare?localId=ef18d6047660bcd888d336b05e5bc507&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)  ~
-  [2021_W1_1](http://aiplay.iflyink.com/#/webShare?localId=5a56934012c2e9cbab7eef86b0d1218f&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)
+  [2021_W1_2](http://aiplay.iflyink.com/#/webShare?localId=5a56934012c2e9cbab7eef86b0d1218f&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)
