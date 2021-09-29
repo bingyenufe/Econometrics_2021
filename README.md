@@ -14,7 +14,7 @@
 [链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
   
 ## 作业  
-**作业1**：[链接](https://pan.baidu.com/s/1io_470FBBYzbyN0hutP2qA) Due: 2021.10.19, 10:00am<br>
+**作业1**：[链接](https://pan.baidu.com/s/1io_470FBBYzbyN0hutP2qA)&emsp;Due: 2021.10.19, 10:00am<br>
   
 ## 上课录屏  
 W1_1表示第一周第一小节课  
