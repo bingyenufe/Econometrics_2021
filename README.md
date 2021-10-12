@@ -9,6 +9,7 @@
 ## 课程资料  
 **导论**：[资料](https://pan.baidu.com/s/1NoLUUUCrzwb2hvARFyV2gw)<br>
 **二元线性回归**：[资料](https://pan.baidu.com/s/1AX4P5pmvfdC97hlQ8Ixaug)<br>
+**多元线性回归**: [资料](https://pan.baidu.com/s/1huMmO4B77Hfao0LllUvflw)<br>
   
 ## 作业  
 共有五次作业，任选其中四次完成即可  
@@ -25,4 +26,7 @@ W1_1表示第一周第一小节课
 [W2_1](http://aiplay.iflyink.com/#/webShare?localId=03f43a4be7eef0f001446f00a77493ee&uid=aGd3gheQzzdC8BG3RBtgUe1EpUVU0saYjpURV4EC0lEKQd7tnFEWuX6XrSoZujCi8ZXXoqs5JiRUnWWbyza86WazPvSmZjptT5JGQ/XDx150BMDoQ1u3yu1gpsetukftbzCtvzIgukVmptRviBXLZ/Fz0mGAnGNtduFCGWQ6/ss=)&emsp;
 [W2_2](http://aiplay.iflyink.com/#/webShare?localId=9c11c688905e054a47a144592d5ce921&uid=aGd3gheQzzdC8BG3RBtgUe1EpUVU0saYjpURV4EC0lEKQd7tnFEWuX6XrSoZujCi8ZXXoqs5JiRUnWWbyza86WazPvSmZjptT5JGQ/XDx150BMDoQ1u3yu1gpsetukftbzCtvzIgukVmptRviBXLZ/Fz0mGAnGNtduFCGWQ6/ss=)&emsp;
 [W4_1](http://aiplay.iflyink.com/#/webShare?localId=bd1596658f44007d8d47f0a51b7c6eaa&uid=EMJmbre6GDNFefx95HwpbMcsnJvJ2VujcCLqLtyfAdJy1nzoHyFZ2S5RFqv5K5GpGSN7BXKuig4tmF6mpygS2y2%2Bz1OvP1cpvvaSs4ZfeYn89xSSY4fEvSUjJd%2BuksA3tp%2BKk2ozBNmhQbpi%2B4noi7k2IYgjQtAz%2BjIf4IE/aGs=)&emsp;
-[W4_2](http://aiplay.iflyink.com/#/webShare?localId=feb21b0233e23e972ac6446d7f7042f3&uid=EMJmbre6GDNFefx95HwpbMcsnJvJ2VujcCLqLtyfAdJy1nzoHyFZ2S5RFqv5K5GpGSN7BXKuig4tmF6mpygS2y2%2Bz1OvP1cpvvaSs4ZfeYn89xSSY4fEvSUjJd%2BuksA3tp%2BKk2ozBNmhQbpi%2B4noi7k2IYgjQtAz%2BjIf4IE/aGs=)
+[W4_2](http://aiplay.iflyink.com/#/webShare?localId=feb21b0233e23e972ac6446d7f7042f3&uid=EMJmbre6GDNFefx95HwpbMcsnJvJ2VujcCLqLtyfAdJy1nzoHyFZ2S5RFqv5K5GpGSN7BXKuig4tmF6mpygS2y2%2Bz1OvP1cpvvaSs4ZfeYn89xSSY4fEvSUjJd%2BuksA3tp%2BKk2ozBNmhQbpi%2B4noi7k2IYgjQtAz%2BjIf4IE/aGs=)&emsp;
+[W6_1Part1](http://aiplay.iflyink.com/#/webShare?localId=fa0a20103421052263c0b9c5c7225638&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)&emsp;
+[W6_1Part2](http://aiplay.iflyink.com/#/webShare?localId=909f5659735288d5d15ade4616adb39d&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)&emsp;
+[W6_2](http://aiplay.iflyink.com/#/webShare?localId=ca888d68d580b55ee3e1224e3a323e82&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)
