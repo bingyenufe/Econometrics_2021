@@ -19,7 +19,7 @@
 **作业1**：[链接](https://pan.baidu.com/s/1io_470FBBYzbyN0hutP2qA)&emsp;Due: 2021.10.19, 10:00am<br>
 **作业1**：[链接](https://pan.baidu.com/s/1Ili1hh1DLchVExltgBSxCw)&emsp;Due: 2021.11.2, 10:00am<br>
   
-## STATA操作演示视频  
+## Stata操作演示视频  
 [链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
   
 ## 上课录屏  
