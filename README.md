@@ -23,7 +23,8 @@
   
 ## 上课录屏  
 W1_1表示第一周第一小节课  
-第三周因端午放假，第五周因国庆放假  
+第三周因端午放假，第五周因国庆放假
+第七周第二小节课因机器故障只录制了部分  
 [W1_1](http://aiplay.iflyink.com/#/webShare?localId=ef18d6047660bcd888d336b05e5bc507&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W1_2](http://aiplay.iflyink.com/#/webShare?localId=5a56934012c2e9cbab7eef86b0d1218f&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W2_1](http://aiplay.iflyink.com/#/webShare?localId=03f43a4be7eef0f001446f00a77493ee&uid=aGd3gheQzzdC8BG3RBtgUe1EpUVU0saYjpURV4EC0lEKQd7tnFEWuX6XrSoZujCi8ZXXoqs5JiRUnWWbyza86WazPvSmZjptT5JGQ/XDx150BMDoQ1u3yu1gpsetukftbzCtvzIgukVmptRviBXLZ/Fz0mGAnGNtduFCGWQ6/ss=)&emsp;
