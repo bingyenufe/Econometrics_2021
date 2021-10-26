@@ -13,6 +13,7 @@
 **定性信息等**：[定性信息](https://pan.baidu.com/s/1AVOjkZnv9pcvLFcap2rTtw)&emsp;
 [清晰断点回归](https://pan.baidu.com/s/1Q813JXxF1pdOSORQKdSIhQ)&emsp;
 [一致性](https://pan.baidu.com/s/1rWm8CVsl9Nl1XxNEDWmgZw)&emsp;<br>
+**面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)&emsp;<br>
   
 ## 作业  
 共有五次作业，任选其中四次完成即可  
@@ -35,4 +36,6 @@ W1_1表示第一周第一小节课
 [W6_1Part2](http://aiplay.iflyink.com/#/webShare?localId=909f5659735288d5d15ade4616adb39d&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)&emsp;
 [W6_2](http://aiplay.iflyink.com/#/webShare?localId=ca888d68d580b55ee3e1224e3a323e82&uid=UDr75EDdZazp7Qt/%2B11L4qr2B0kqXo6FQNCx/swFrUVlfLxOMD2RIcaldlufXJek8GV%2BftHy4FicY%2BEeyzEt/oZW4VSy24m58HsFlGE62G5KXeynsuDfmW2%2BWQo8b6HSAp%2B%2BKj8BR2Zj/wWfwwyTQzc1A%2BLGTz58RCMq0Zy2AVM=)&emsp;
 [W7_1](http://aiplay.iflyink.com/#/webShare?localId=8d349c9a3e47fb95567df406612fbb6a&uid=aeK/0ST%2BuwJe6DyfudX8ayqaLVtdBV5sNiIUMBTqu47AtvWmc2C9oa9sO7TvCcJukUw8lSyDVCvo1laQgfR53gFbS3cxSePTQT7u5YQfOuZS2S%2BggRBOhZUM1skGW8BjwuVI3pQLVloNpDBuDCo39WEa9kiJeE%2BRSgIe3BhgQko=)&emsp;
-[W7_2Partial](http://aiplay.iflyink.com/#/webShare?localId=4eb8ee035d08aab8071ae1f23814ae34&uid=aeK/0ST%2BuwJe6DyfudX8ayqaLVtdBV5sNiIUMBTqu47AtvWmc2C9oa9sO7TvCcJukUw8lSyDVCvo1laQgfR53gFbS3cxSePTQT7u5YQfOuZS2S%2BggRBOhZUM1skGW8BjwuVI3pQLVloNpDBuDCo39WEa9kiJeE%2BRSgIe3BhgQko=)
+[W7_2Partial](http://aiplay.iflyink.com/#/webShare?localId=4eb8ee035d08aab8071ae1f23814ae34&uid=aeK/0ST%2BuwJe6DyfudX8ayqaLVtdBV5sNiIUMBTqu47AtvWmc2C9oa9sO7TvCcJukUw8lSyDVCvo1laQgfR53gFbS3cxSePTQT7u5YQfOuZS2S%2BggRBOhZUM1skGW8BjwuVI3pQLVloNpDBuDCo39WEa9kiJeE%2BRSgIe3BhgQko=)&emsp;
+[W8_1](http://aiplay.iflyink.com/#/webShare?localId=5b3cc17bcb98269b61d50935e40a831d&uid=hPKx0p%2BsHICyQv7RQlK0HGA1VXq0ClV1Z6WD%2B2OyiqrGuO57JUzHH0l8I4uhqfkvWO9NzzfjmxrWQqYMBHzPoDKSwlqUMXdgtEaSb0ZBTkLHmKwY56IPIuMLHWrLq%2BXyfr6nqoC1yISpI/2bTMgQa0unlPqwCGCnIijTh8pJ6Q==)&emsp;
+[W8_2](http://aiplay.iflyink.com/#/webShare?localId=48d28ec8139cbad514698173e7fa3253&uid=hPKx0p%2BsHICyQv7RQlK0HGA1VXq0ClV1Z6WD%2B2OyiqrGuO57JUzHH0l8I4uhqfkvWO9NzzfjmxrWQqYMBHzPoDKSwlqUMXdgtEaSb0ZBTkLHmKwY56IPIuMLHWrLq%2BXyfr6nqoC1yISpI/2bTMgQa0unlPqwCGCnIijTh8pJ6Q==)
