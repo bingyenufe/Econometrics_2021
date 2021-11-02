@@ -12,7 +12,8 @@
 **多元线性回归**: [资料](https://pan.baidu.com/s/1huMmO4B77Hfao0LllUvflw)<br>
 **定性信息等**：[定性信息](https://pan.baidu.com/s/1AVOjkZnv9pcvLFcap2rTtw)&emsp;
 [清晰断点回归](https://pan.baidu.com/s/1Q813JXxF1pdOSORQKdSIhQ)&emsp;
-[一致性](https://pan.baidu.com/s/1rWm8CVsl9Nl1XxNEDWmgZw)&emsp;<br>
+[一致性](https://pan.baidu.com/s/1rWm8CVsl9Nl1XxNEDWmgZw)&emsp;
+[机制和异质性分析](https://pan.baidu.com/s/13FHJ7SCe_TrS7HShdQ2esw)&emsp;<br>
 **面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)&emsp;<br>
   
 ## 作业  
@@ -38,4 +39,7 @@ W1_1表示第一周第一小节课
 [W7_1](http://aiplay.iflyink.com/#/webShare?localId=8d349c9a3e47fb95567df406612fbb6a&uid=aeK/0ST%2BuwJe6DyfudX8ayqaLVtdBV5sNiIUMBTqu47AtvWmc2C9oa9sO7TvCcJukUw8lSyDVCvo1laQgfR53gFbS3cxSePTQT7u5YQfOuZS2S%2BggRBOhZUM1skGW8BjwuVI3pQLVloNpDBuDCo39WEa9kiJeE%2BRSgIe3BhgQko=)&emsp;
 [W7_2Partial](http://aiplay.iflyink.com/#/webShare?localId=4eb8ee035d08aab8071ae1f23814ae34&uid=aeK/0ST%2BuwJe6DyfudX8ayqaLVtdBV5sNiIUMBTqu47AtvWmc2C9oa9sO7TvCcJukUw8lSyDVCvo1laQgfR53gFbS3cxSePTQT7u5YQfOuZS2S%2BggRBOhZUM1skGW8BjwuVI3pQLVloNpDBuDCo39WEa9kiJeE%2BRSgIe3BhgQko=)&emsp;
 [W8_1](http://aiplay.iflyink.com/#/webShare?localId=5b3cc17bcb98269b61d50935e40a831d&uid=hPKx0p%2BsHICyQv7RQlK0HGA1VXq0ClV1Z6WD%2B2OyiqrGuO57JUzHH0l8I4uhqfkvWO9NzzfjmxrWQqYMBHzPoDKSwlqUMXdgtEaSb0ZBTkLHmKwY56IPIuMLHWrLq%2BXyfr6nqoC1yISpI/2bTMgQa0unlPqwCGCnIijTh8pJ6Q==)&emsp;
-[W8_2](http://aiplay.iflyink.com/#/webShare?localId=48d28ec8139cbad514698173e7fa3253&uid=hPKx0p%2BsHICyQv7RQlK0HGA1VXq0ClV1Z6WD%2B2OyiqrGuO57JUzHH0l8I4uhqfkvWO9NzzfjmxrWQqYMBHzPoDKSwlqUMXdgtEaSb0ZBTkLHmKwY56IPIuMLHWrLq%2BXyfr6nqoC1yISpI/2bTMgQa0unlPqwCGCnIijTh8pJ6Q==)
+[W8_2](http://aiplay.iflyink.com/#/webShare?localId=48d28ec8139cbad514698173e7fa3253&uid=hPKx0p%2BsHICyQv7RQlK0HGA1VXq0ClV1Z6WD%2B2OyiqrGuO57JUzHH0l8I4uhqfkvWO9NzzfjmxrWQqYMBHzPoDKSwlqUMXdgtEaSb0ZBTkLHmKwY56IPIuMLHWrLq%2BXyfr6nqoC1yISpI/2bTMgQa0unlPqwCGCnIijTh8pJ6Q==)&emsp;
+[W9_1Part1](http://aiplay.iflyink.com/#/webShare?localId=3b790b219457763c4faa8b3482b9d1be&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
+[W9_1Part2](http://aiplay.iflyink.com/#/webShare?localId=b223e09e6d148b0331ca427deb71dd59&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
+[W9_2](http://aiplay.iflyink.com/#/webShare?localId=fa3bff3d9eb078f87769a28784017dc0&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)
