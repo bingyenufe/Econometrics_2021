@@ -23,6 +23,7 @@
 共有五次作业，任选其中四次完成即可  
 **作业1**：[链接](https://pan.baidu.com/s/1io_470FBBYzbyN0hutP2qA)&emsp;Due: 2021.10.19, 10:00am<br>
 **作业2**：[链接](https://pan.baidu.com/s/1Ili1hh1DLchVExltgBSxCw)&emsp;Due: 2021.11.2, 10:00am<br>
+**作业3**：[链接](https://pan.baidu.com/s/1NtKAajxhC1QJpLfKERV1xw)&emsp;Due: 2021.11.16, 10:00am<br>
   
 ## Stata操作演示视频  
 [链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
