@@ -13,7 +13,7 @@
 **定性信息等**：[定性信息](https://pan.baidu.com/s/1AVOjkZnv9pcvLFcap2rTtw)&emsp;
 [清晰断点回归](https://pan.baidu.com/s/1Q813JXxF1pdOSORQKdSIhQ)&emsp;
 [一致性](https://pan.baidu.com/s/1rWm8CVsl9Nl1XxNEDWmgZw)&emsp;
-[机制和异质性分析](https://pan.baidu.com/s/13FHJ7SCe_TrS7HShdQ2esw)&emsp;<br>
+[机制和异质性分析](https://pan.baidu.com/s/1OlUhc-J2VizR-R89m3eU4A)&emsp;<br>
 **面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)&emsp;<br>
   
 ## 文献  
