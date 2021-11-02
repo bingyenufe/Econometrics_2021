@@ -16,6 +16,9 @@
 [机制和异质性分析](https://pan.baidu.com/s/13FHJ7SCe_TrS7HShdQ2esw)&emsp;<br>
 **面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)&emsp;<br>
   
+## 文献  
+**课程涉及到的文献汇总**：[链接](https://pan.baidu.com/s/1yQGcnsRIojbK1n6Gt124Wg)  
+  
 ## 作业  
 共有五次作业，任选其中四次完成即可  
 **作业1**：[链接](https://pan.baidu.com/s/1io_470FBBYzbyN0hutP2qA)&emsp;Due: 2021.10.19, 10:00am<br>
