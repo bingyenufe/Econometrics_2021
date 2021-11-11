@@ -7,7 +7,7 @@
 **计分**：平时，40%（具体办法详见课程大纲）；期末课程论文，60%
   
 ## 课程资料  
-以下需要提取码的，均是1234
+以下需要提取码的，均是1234  
 **导论**：[资料](https://pan.baidu.com/s/1NoLUUUCrzwb2hvARFyV2gw)<br>
 **二元线性回归**：[资料](https://pan.baidu.com/s/1AX4P5pmvfdC97hlQ8Ixaug)<br>
 **多元线性回归**: [资料](https://pan.baidu.com/s/1huMmO4B77Hfao0LllUvflw)<br>
