@@ -7,6 +7,7 @@
 **计分**：平时，40%（具体办法详见课程大纲）；期末课程论文，60%
   
 ## 课程资料  
+以下需要提取码的，均是1234
 **导论**：[资料](https://pan.baidu.com/s/1NoLUUUCrzwb2hvARFyV2gw)<br>
 **二元线性回归**：[资料](https://pan.baidu.com/s/1AX4P5pmvfdC97hlQ8Ixaug)<br>
 **多元线性回归**: [资料](https://pan.baidu.com/s/1huMmO4B77Hfao0LllUvflw)<br>
@@ -14,7 +15,8 @@
 [清晰断点回归](https://pan.baidu.com/s/1Q813JXxF1pdOSORQKdSIhQ)&emsp;
 [一致性](https://pan.baidu.com/s/1rWm8CVsl9Nl1XxNEDWmgZw)&emsp;
 [机制和异质性分析](https://pan.baidu.com/s/1OlUhc-J2VizR-R89m3eU4A)&emsp;<br>
-**面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)&emsp;<br>
+**面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)<br>
+**双重差分法**：[资料](https://pan.baidu.com/s/1FNtYWLc0Xj8VpdmNrj-z6g)<br>
   
 ## 文献  
 **课程涉及到的文献汇总**：[链接](https://pan.baidu.com/s/1yQGcnsRIojbK1n6Gt124Wg)  
