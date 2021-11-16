@@ -32,7 +32,8 @@
   
 ## 上课录屏  
 W1_1表示第一周第一小节课  
-第三周因端午放假，第五周因国庆放假，第七周第二小节课因机器故障只录制了部分  
+第三周因端午放假，第五周因国庆放假  
+第七周第二小节课因机器故障只录制了部分，第十一周第一小节课因机器故障只录制了部分  
 [W1_1](http://aiplay.iflyink.com/#/webShare?localId=ef18d6047660bcd888d336b05e5bc507&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W1_2](http://aiplay.iflyink.com/#/webShare?localId=5a56934012c2e9cbab7eef86b0d1218f&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W2_1](http://aiplay.iflyink.com/#/webShare?localId=03f43a4be7eef0f001446f00a77493ee&uid=aGd3gheQzzdC8BG3RBtgUe1EpUVU0saYjpURV4EC0lEKQd7tnFEWuX6XrSoZujCi8ZXXoqs5JiRUnWWbyza86WazPvSmZjptT5JGQ/XDx150BMDoQ1u3yu1gpsetukftbzCtvzIgukVmptRviBXLZ/Fz0mGAnGNtduFCGWQ6/ss=)&emsp;
@@ -50,4 +51,6 @@ W1_1表示第一周第一小节课
 [W9_1Part2](http://aiplay.iflyink.com/#/webShare?localId=b223e09e6d148b0331ca427deb71dd59&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
 [W9_2](http://aiplay.iflyink.com/#/webShare?localId=fa3bff3d9eb078f87769a28784017dc0&uid=JVgVBczvfF8/sUCIeTXHF1SNT%2BElhO9trZZwYEToXyvh6YLbtkliUQ9pZNFpur156Yfh82XcjZGSNWy0WyuPj59%2BunwMMdnygDFsngivay4D0VCRdGf0ZnSWxVMbEfAumV%2BFnn7DLEGwOboc36nKbfDM8I1LvQTMhhsm3ZgWdMI=)&emsp;
 [W10_1](http://aiplay.iflyink.com/#/webShare?localId=2c390819697496d765b8cbc43cb6fce0&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)&emsp;
-[W10_2](http://aiplay.iflyink.com/#/webShare?localId=afa826da8489efbb2eaec13514882d66&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)
+[W10_2](http://aiplay.iflyink.com/#/webShare?localId=afa826da8489efbb2eaec13514882d66&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)&emsp;
+[W11_1](http://aiplay.iflyink.com/#/webShare?localId=345c7c25d10960a24b8fba4899242afe&uid=YM1QWApIFHNUqokBoBRKTwyYNIG%2B4xjBHOVcQCjPPrH6vk15lmZBZHgETmRUCysqC3dtHnMgvweVJe909okKr3PToZ2yYDBq7LA6UEeU10J8oFPx5XdaxMjcaDuuMMChjQO8VvpkaIO0AZ/F9Hor0IpyyVe8nRy8V1%2BS5zQbJBY=)&emsp;
+[W11_1](http://aiplay.iflyink.com/#/webShare?localId=11330146db0bc1b98a3a249d539c8e32&uid=YM1QWApIFHNUqokBoBRKTwyYNIG%2B4xjBHOVcQCjPPrH6vk15lmZBZHgETmRUCysqC3dtHnMgvweVJe909okKr3PToZ2yYDBq7LA6UEeU10J8oFPx5XdaxMjcaDuuMMChjQO8VvpkaIO0AZ/F9Hor0IpyyVe8nRy8V1%2BS5zQbJBY=)
