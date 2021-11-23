@@ -17,6 +17,7 @@
 [机制和异质性分析](https://pan.baidu.com/s/1OlUhc-J2VizR-R89m3eU4A)&emsp;<br>
 **面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)<br>
 **双重差分法**：[资料](https://pan.baidu.com/s/1FNtYWLc0Xj8VpdmNrj-z6g)<br>
+**工具变量回归**：[资料](https://pan.baidu.com/s/1YktDnmfr4byCX2Gz__R3kg)<br>
   
 ## 文献  
 **课程涉及到的文献汇总**：[链接](https://pan.baidu.com/s/1yQGcnsRIojbK1n6Gt124Wg)  
@@ -54,4 +55,6 @@ W1_1表示第一周第一小节课
 [W10_1](http://aiplay.iflyink.com/#/webShare?localId=2c390819697496d765b8cbc43cb6fce0&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)&emsp;
 [W10_2](http://aiplay.iflyink.com/#/webShare?localId=afa826da8489efbb2eaec13514882d66&uid=gL5uV36VBUVzaEIoPpY3ECjXheXAC1UdzQC9RxrL4RYp6V7NbGmUCUCJAKDlzugrSYIz3y0tE1KFFR2F/VZkdtnxoWI08M3DGzbnak7GZs86H7FijKg5fEyu%2BwPwjsfUVTiE/UzeN2MqWd7i/nAOrU8v3bIca1hLh8eyhd003oM=)&emsp;
 [W11_1](http://aiplay.iflyink.com/#/webShare?localId=345c7c25d10960a24b8fba4899242afe&uid=YM1QWApIFHNUqokBoBRKTwyYNIG%2B4xjBHOVcQCjPPrH6vk15lmZBZHgETmRUCysqC3dtHnMgvweVJe909okKr3PToZ2yYDBq7LA6UEeU10J8oFPx5XdaxMjcaDuuMMChjQO8VvpkaIO0AZ/F9Hor0IpyyVe8nRy8V1%2BS5zQbJBY=)&emsp;
-[W11_2](http://aiplay.iflyink.com/#/webShare?localId=11330146db0bc1b98a3a249d539c8e32&uid=YM1QWApIFHNUqokBoBRKTwyYNIG%2B4xjBHOVcQCjPPrH6vk15lmZBZHgETmRUCysqC3dtHnMgvweVJe909okKr3PToZ2yYDBq7LA6UEeU10J8oFPx5XdaxMjcaDuuMMChjQO8VvpkaIO0AZ/F9Hor0IpyyVe8nRy8V1%2BS5zQbJBY=)
+[W11_2](http://aiplay.iflyink.com/#/webShare?localId=11330146db0bc1b98a3a249d539c8e32&uid=YM1QWApIFHNUqokBoBRKTwyYNIG%2B4xjBHOVcQCjPPrH6vk15lmZBZHgETmRUCysqC3dtHnMgvweVJe909okKr3PToZ2yYDBq7LA6UEeU10J8oFPx5XdaxMjcaDuuMMChjQO8VvpkaIO0AZ/F9Hor0IpyyVe8nRy8V1%2BS5zQbJBY=)&emsp;
+[W12_1](http://aiplay.iflyink.com/#/webShare?localId=eb8acb110d4b6b800e9b97ece3ba7060&uid=TDwUJHuhL0%2Bld%2B%2BWehIjVW8g2D4%2BlqI/UCIKihZK3a36NFmvTOV804YT5hpeSv62LElkhIGDUds6Mfdgi0eVUUyRSwVDMr%2BCZWAJH8arkFPnycCjvbLe80iTdft0McJfStAbcKNsKgiryeWaD74ebZmvARg8AVeB5DMBR11agV8=)&emsp;
+[W12_2](http://aiplay.iflyink.com/#/webShare?localId=e4a1a1c38ebd873f6a3fe941b0a932b6&uid=TDwUJHuhL0%2Bld%2B%2BWehIjVW8g2D4%2BlqI/UCIKihZK3a36NFmvTOV804YT5hpeSv62LElkhIGDUds6Mfdgi0eVUUyRSwVDMr%2BCZWAJH8arkFPnycCjvbLe80iTdft0McJfStAbcKNsKgiryeWaD74ebZmvARg8AVeB5DMBR11agV8=)
