@@ -29,6 +29,9 @@
 **作业3**：[链接](https://pan.baidu.com/s/1NtKAajxhC1QJpLfKERV1xw)&emsp;Due: 2021.11.16, 10:00am<br>
 **作业4**：[链接](https://pan.baidu.com/s/1zrSxrldRI0HGuC5Rn9vtrg)&emsp;Due: 2021.11.30, 10:00am<br>
   
+## 课程论文  
+**选题指导及要求**：[链接](https://kdocs.cn/l/ccm1SVaJSKF9[金山文档] 课程论文选题指导及写作要求2021.docx)<br>
+  
 ## Stata操作演示视频  
 [链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
   
