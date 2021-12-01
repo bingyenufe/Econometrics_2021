@@ -18,6 +18,7 @@
 **面板数据分析**：[资料](https://pan.baidu.com/s/1EyRTdnFzwUWxbb8SUnX_pA)<br>
 **双重差分法**：[资料](https://pan.baidu.com/s/1FNtYWLc0Xj8VpdmNrj-z6g)<br>
 **工具变量回归**：[资料](https://pan.baidu.com/s/1YktDnmfr4byCX2Gz__R3kg)<br>
+**科学写作**：[资料](https://pan.baidu.com/s/1rOgR4aegSiXDSgiF5hheng)<br>
   
 ## 文献  
 **课程涉及到的文献汇总**：[链接](https://pan.baidu.com/s/1yQGcnsRIojbK1n6Gt124Wg)  
@@ -60,4 +61,6 @@ W1_1表示第一周第一小节课
 [W11_1](http://aiplay.iflyink.com/#/webShare?localId=345c7c25d10960a24b8fba4899242afe&uid=YM1QWApIFHNUqokBoBRKTwyYNIG%2B4xjBHOVcQCjPPrH6vk15lmZBZHgETmRUCysqC3dtHnMgvweVJe909okKr3PToZ2yYDBq7LA6UEeU10J8oFPx5XdaxMjcaDuuMMChjQO8VvpkaIO0AZ/F9Hor0IpyyVe8nRy8V1%2BS5zQbJBY=)&emsp;
 [W11_2](http://aiplay.iflyink.com/#/webShare?localId=11330146db0bc1b98a3a249d539c8e32&uid=YM1QWApIFHNUqokBoBRKTwyYNIG%2B4xjBHOVcQCjPPrH6vk15lmZBZHgETmRUCysqC3dtHnMgvweVJe909okKr3PToZ2yYDBq7LA6UEeU10J8oFPx5XdaxMjcaDuuMMChjQO8VvpkaIO0AZ/F9Hor0IpyyVe8nRy8V1%2BS5zQbJBY=)&emsp;
 [W12_1](http://aiplay.iflyink.com/#/webShare?localId=eb8acb110d4b6b800e9b97ece3ba7060&uid=TDwUJHuhL0%2Bld%2B%2BWehIjVW8g2D4%2BlqI/UCIKihZK3a36NFmvTOV804YT5hpeSv62LElkhIGDUds6Mfdgi0eVUUyRSwVDMr%2BCZWAJH8arkFPnycCjvbLe80iTdft0McJfStAbcKNsKgiryeWaD74ebZmvARg8AVeB5DMBR11agV8=)&emsp;
-[W12_2](http://aiplay.iflyink.com/#/webShare?localId=e4a1a1c38ebd873f6a3fe941b0a932b6&uid=TDwUJHuhL0%2Bld%2B%2BWehIjVW8g2D4%2BlqI/UCIKihZK3a36NFmvTOV804YT5hpeSv62LElkhIGDUds6Mfdgi0eVUUyRSwVDMr%2BCZWAJH8arkFPnycCjvbLe80iTdft0McJfStAbcKNsKgiryeWaD74ebZmvARg8AVeB5DMBR11agV8=)
+[W12_2](http://aiplay.iflyink.com/#/webShare?localId=e4a1a1c38ebd873f6a3fe941b0a932b6&uid=TDwUJHuhL0%2Bld%2B%2BWehIjVW8g2D4%2BlqI/UCIKihZK3a36NFmvTOV804YT5hpeSv62LElkhIGDUds6Mfdgi0eVUUyRSwVDMr%2BCZWAJH8arkFPnycCjvbLe80iTdft0McJfStAbcKNsKgiryeWaD74ebZmvARg8AVeB5DMBR11agV8=)&emsp;
+[W13_1](http://aiplay.iflyink.com/#/webShare?localId=ceb1c0dcb0cce97f7640e1a21433f775&uid=WE5jbA6xDgz3PbwYVOBEh5OnHPukExlf82qQEt3QufueNxQpXtFWZXCf8IofrbiQf6aBvMgFzmRXiBr62PxQ9aSen1KjsBOQyWqPqDPYiFPqn1yEZlLDl3YrjxX4QCJmNHaTWVlJ62Wp3jCg14a5izpcqAZrnA/4tMLMNVnClKk=)&emsp;
+[W13-2](http://aiplay.iflyink.com/#/webShare?localId=19f760a50975f715d9fec69546224c8d&uid=WE5jbA6xDgz3PbwYVOBEh5OnHPukExlf82qQEt3QufueNxQpXtFWZXCf8IofrbiQf6aBvMgFzmRXiBr62PxQ9aSen1KjsBOQyWqPqDPYiFPqn1yEZlLDl3YrjxX4QCJmNHaTWVlJ62Wp3jCg14a5izpcqAZrnA/4tMLMNVnClKk=)
