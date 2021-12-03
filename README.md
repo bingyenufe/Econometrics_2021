@@ -29,6 +29,7 @@
 **作业2**：[链接](https://pan.baidu.com/s/1Ili1hh1DLchVExltgBSxCw)&emsp;Due: 2021.11.2, 10:00am<br>
 **作业3**：[链接](https://pan.baidu.com/s/1NtKAajxhC1QJpLfKERV1xw)&emsp;Due: 2021.11.16, 10:00am<br>
 **作业4**：[链接](https://pan.baidu.com/s/1zrSxrldRI0HGuC5Rn9vtrg)&emsp;Due: 2021.11.30, 10:00am<br>
+**作业5**：[链接](https://pan.baidu.com/s/1RLSvK90NVzpvAv5EXmSa4g)&emsp;Due: 2021.12.11, 10:00am<br>
   
 ## 课程论文  
 **选题指导及要求**：[链接](https://kdocs.cn/l/ccm1SVaJSKF9[金山文档] 课程论文选题指导及写作要求2021.docx)<br>
