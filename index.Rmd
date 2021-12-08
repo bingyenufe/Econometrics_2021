@@ -27,6 +27,7 @@ output:
 **双重差分法**：[资料](https://pan.baidu.com/s/1FNtYWLc0Xj8VpdmNrj-z6g)<br>
 **工具变量回归**：[资料](https://pan.baidu.com/s/1YktDnmfr4byCX2Gz__R3kg)<br>
 **科学写作**：[资料](https://pan.baidu.com/s/1rOgR4aegSiXDSgiF5hheng)<br>
+**政府支出**：[资料](https://pan.baidu.com/s/1-07KF3oFj3fgvy68nlw-1w)<br>
   
 ## 文献  
 **课程涉及到的文献汇总**：[链接](https://pan.baidu.com/s/1yQGcnsRIojbK1n6Gt124Wg)  
@@ -40,10 +41,10 @@ output:
 **作业5**：[链接](https://pan.baidu.com/s/1RLSvK90NVzpvAv5EXmSa4g)&emsp;Due: 2021.12.11, 10:00am<br>
   
 ## 课程论文  
-**选题指导及要求**：[链接](https://kdocs.cn/l/ccm1SVaJSKF9[金山文档] 课程论文选题指导及写作要求2021.docx)<br>
+**选题指导及课程论文要求**：[链接](https://kdocs.cn/l/ccm1SVaJSKF9[金山文档] 课程论文选题指导及写作要求2021.docx)<br>
   
 ## Stata操作演示视频  
-[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
+**STATA基本操作及作业指导**：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
   
 ## 上课录屏  
 W1_1表示第一周第一小节课  
