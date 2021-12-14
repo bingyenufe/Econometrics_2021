@@ -28,6 +28,7 @@ output:
 **工具变量回归**：[资料](https://pan.baidu.com/s/1YktDnmfr4byCX2Gz__R3kg)<br>
 **科学写作**：[资料](https://pan.baidu.com/s/1rOgR4aegSiXDSgiF5hheng)<br>
 **政府支出**：[资料](https://pan.baidu.com/s/1-07KF3oFj3fgvy68nlw-1w)<br>
+**政府收入**：[资料](https://pan.baidu.com/s/1NTSVelhOFbHReUF0zbOUjA)<br>
   
 ## 文献  
 **课程涉及到的文献汇总**：[链接](https://pan.baidu.com/s/1yQGcnsRIojbK1n6Gt124Wg)  
@@ -41,15 +42,16 @@ output:
 **作业5**：[链接](https://pan.baidu.com/s/1RLSvK90NVzpvAv5EXmSa4g)&emsp;Due: 2021.12.11, 10:00am<br>
   
 ## 课程论文  
-**选题指导及课程论文要求**：[链接](https://kdocs.cn/l/ccm1SVaJSKF9[金山文档] 课程论文选题指导及写作要求2021.docx)<br>
+**选题指导及课程论文要求**：[链接](https://kdocs.cn/l/cpfcteLAPnev)<br>
   
 ## Stata操作演示视频  
 **STATA基本操作及作业指导**：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
   
 ## 上课录屏  
-W1_1表示第一周第一小节课  
-第三周因端午放假，第五周因国庆放假  
-第七周第二小节课因机器故障只录制了部分，第十一周第一小节课因机器故障只录制了部分  
+W1_1表示第1周第1小节课  
+第3周因端午放假，第5周因国庆放假  
+第7周第2小节课因机器故障只录制了部分，第11周第1小节课因机器故障只录制了部分  
+第14-16周按专题老师讲解或学生报告论文，只提供涉及方法讲述的一次（第15周第1小节课）录屏    
 [W1_1](http://aiplay.iflyink.com/#/webShare?localId=ef18d6047660bcd888d336b05e5bc507&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W1_2](http://aiplay.iflyink.com/#/webShare?localId=5a56934012c2e9cbab7eef86b0d1218f&uid=Tvf4YC6/GyyJTOgYyScpidQmXORhXeoBGS0gpWNZqGGQaOciJDVLZJoyT4XlrjIeSR25Dwy6%2BDpnwvTOX6D2%2BTSF8DdP8Wr3JEme23NEXepBH9aoWSXpHINZtAhqRNCRZ4YbEicIDDS8VREK%2BOnXEY8gPCKXmjBNynwx7au8crE=)&emsp;
 [W2_1](http://aiplay.iflyink.com/#/webShare?localId=03f43a4be7eef0f001446f00a77493ee&uid=aGd3gheQzzdC8BG3RBtgUe1EpUVU0saYjpURV4EC0lEKQd7tnFEWuX6XrSoZujCi8ZXXoqs5JiRUnWWbyza86WazPvSmZjptT5JGQ/XDx150BMDoQ1u3yu1gpsetukftbzCtvzIgukVmptRviBXLZ/Fz0mGAnGNtduFCGWQ6/ss=)&emsp;
@@ -73,4 +75,5 @@ W1_1表示第一周第一小节课
 [W12_1](http://aiplay.iflyink.com/#/webShare?localId=eb8acb110d4b6b800e9b97ece3ba7060&uid=TDwUJHuhL0%2Bld%2B%2BWehIjVW8g2D4%2BlqI/UCIKihZK3a36NFmvTOV804YT5hpeSv62LElkhIGDUds6Mfdgi0eVUUyRSwVDMr%2BCZWAJH8arkFPnycCjvbLe80iTdft0McJfStAbcKNsKgiryeWaD74ebZmvARg8AVeB5DMBR11agV8=)&emsp;
 [W12_2](http://aiplay.iflyink.com/#/webShare?localId=e4a1a1c38ebd873f6a3fe941b0a932b6&uid=TDwUJHuhL0%2Bld%2B%2BWehIjVW8g2D4%2BlqI/UCIKihZK3a36NFmvTOV804YT5hpeSv62LElkhIGDUds6Mfdgi0eVUUyRSwVDMr%2BCZWAJH8arkFPnycCjvbLe80iTdft0McJfStAbcKNsKgiryeWaD74ebZmvARg8AVeB5DMBR11agV8=)&emsp;
 [W13_1](http://aiplay.iflyink.com/#/webShare?localId=ceb1c0dcb0cce97f7640e1a21433f775&uid=WE5jbA6xDgz3PbwYVOBEh5OnHPukExlf82qQEt3QufueNxQpXtFWZXCf8IofrbiQf6aBvMgFzmRXiBr62PxQ9aSen1KjsBOQyWqPqDPYiFPqn1yEZlLDl3YrjxX4QCJmNHaTWVlJ62Wp3jCg14a5izpcqAZrnA/4tMLMNVnClKk=)&emsp;
-[W13_2](http://aiplay.iflyink.com/#/webShare?localId=19f760a50975f715d9fec69546224c8d&uid=WE5jbA6xDgz3PbwYVOBEh5OnHPukExlf82qQEt3QufueNxQpXtFWZXCf8IofrbiQf6aBvMgFzmRXiBr62PxQ9aSen1KjsBOQyWqPqDPYiFPqn1yEZlLDl3YrjxX4QCJmNHaTWVlJ62Wp3jCg14a5izpcqAZrnA/4tMLMNVnClKk=)
+[W13_2](http://aiplay.iflyink.com/#/webShare?localId=19f760a50975f715d9fec69546224c8d&uid=WE5jbA6xDgz3PbwYVOBEh5OnHPukExlf82qQEt3QufueNxQpXtFWZXCf8IofrbiQf6aBvMgFzmRXiBr62PxQ9aSen1KjsBOQyWqPqDPYiFPqn1yEZlLDl3YrjxX4QCJmNHaTWVlJ62Wp3jCg14a5izpcqAZrnA/4tMLMNVnClKk=)&emsp;
+[W15_1](http://aiplay.iflyink.com/#/webShare?localId=a204e612b499a7e1953459c43350af32&uid=HM0f/2Usa4OEZkcDo/PLJTec8ZA38Y8PNgJwUyPH/knUZEIkKyWwJ6YA//y1srkbFtJaAeio39cWS5PiGh19eNKVZZEY8iH33M243VW8m/Y0iy8iYqfA1B7GHUN%2BUMjyIdMhDqqgciC6JHFS2lM4xhpx0yfgMWj9ieFGkgSMUJ8=)
