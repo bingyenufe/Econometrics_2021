@@ -12,7 +12,7 @@ output:
 **助教**：曹倩雯（Email：qwcao1229@163.com）  
 **课程大纲**：[链接](https://kdocs.cn/l/ciSxGr4aZcML)   
 **上课时间**：2021年秋季学期周二上午第3、4节  
-**计分**：平时，40%（具体办法详见课程大纲）；期末课程论文，60%
+**计分**：平时，40%（具体办法见课程大纲）；期末课程论文，60%
   
 ## 课程资料  
 以下需要提取码的，均是1234  
@@ -27,10 +27,10 @@ output:
 **双重差分法**：[资料](https://pan.baidu.com/s/1FNtYWLc0Xj8VpdmNrj-z6g)<br>
 **工具变量回归**：[资料](https://pan.baidu.com/s/1YktDnmfr4byCX2Gz__R3kg)<br>
 **科学写作**：[资料](https://pan.baidu.com/s/1rOgR4aegSiXDSgiF5hheng)<br>
-**政府支出**：[资料](https://pan.baidu.com/s/1-07KF3oFj3fgvy68nlw-1w)<br>
-**政府收入**：[资料](https://pan.baidu.com/s/1NTSVelhOFbHReUF0zbOUjA)<br>
-**政府间关系**（含模糊断点回归）：[资料](https://pan.baidu.com/s/19914lQtp6vmfetVOqayPDw)<br>
-**其他**：[资料](https://pan.baidu.com/s/10z7ERmwsqhOBK-3J7ZZFog)<br>
+**专题：政府支出**：[资料](https://pan.baidu.com/s/1-07KF3oFj3fgvy68nlw-1w)<br>
+**专题：政府收入**：[资料](https://pan.baidu.com/s/1NTSVelhOFbHReUF0zbOUjA)<br>
+**专题：政府间关系**（含模糊断点回归）：[资料](https://pan.baidu.com/s/19914lQtp6vmfetVOqayPDw)<br>
+**专题：其他**：[资料](https://pan.baidu.com/s/10z7ERmwsqhOBK-3J7ZZFog)<br>
   
 ## 文献  
 **课程涉及到的文献汇总**：[链接](https://pan.baidu.com/s/1yQGcnsRIojbK1n6Gt124Wg)<br>
@@ -47,7 +47,7 @@ output:
 **选题指导及课程论文要求**：[链接](https://kdocs.cn/l/cpfcteLAPnev)<br>
   
 ## Stata操作演示视频  
-**STATA基本操作及作业指导**：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
+**Stata基本操作及作业指导**：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)<br>
   
 ## 上课录屏  
 W1_1表示第1周第1小节课  
